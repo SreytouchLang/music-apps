@@ -1,5 +1,5 @@
 
-# Music - Stream, Download, and Discover Music for Free
+# Music-App (SwiftUI) - Stream, Download, and Discover Music for Free
 ## Official repository for the Music app
 
 
